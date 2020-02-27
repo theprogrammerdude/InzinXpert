@@ -1,0 +1,5 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "./assets/css/master.css";
+@import "./assets/plugins/iview/css/iview.css";
+@import "./assets/plugins/iview/css/skin/style2.css";
